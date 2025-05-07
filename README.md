@@ -73,17 +73,21 @@ The project includes the following steps:
 
 ## Screenshots of Output
 
-### Training and Validation Accuracy
+### Training
 
-![Training and Validation Accuracy](path_to_your_screenshot/training_validation_accuracy.png)
+![Training](https://github.com/Yoshitha-28/image_classification/blob/main/Screenshot%202025-05-07%20112137.png)
 
-### Training and Validation Loss
+### Metrics
+![Metrics](https://github.com/Yoshitha-28/image_classification/blob/main/Screenshot%202025-05-07%20112153.png)
 
-![Training and Validation Loss](path_to_your_screenshot/training_validation_loss.png)
+### Accuracy and Loss Plots
+![Accuracy and Loss Plots](https://github.com/Yoshitha-28/image_classification/blob/main/Screenshot%202025-05-07%20112215.png)
 
-### Image Prediction Example
-
-![Prediction Example](path_to_your_screenshot/prediction_example.png)
+### Testing Output
+![](https://github.com/Yoshitha-28/image_classification/blob/main/Screenshot%202025-05-07%20112240.png).
+![](https://github.com/Yoshitha-28/image_classification/blob/main/Screenshot%202025-05-07%20112315.png)
+![](https://github.com/Yoshitha-28/image_classification/blob/main/Screenshot%202025-05-07%20112329.png)
+![](https://github.com/Yoshitha-28/image_classification/blob/main/Screenshot%202025-05-07%20112342.png)
 
 ## Model Files
 
